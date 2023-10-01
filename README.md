@@ -13,7 +13,7 @@ git clone https://github.com/ironcopper/kodluyoruzilkrepo.git
 
 ## Appearance
 
-![github][]
+![github][https://github.com/ironcopper/kodluyoruzilkrepo/blob/main/a.PNG]
 
 ## Contributing
 
